@@ -18,7 +18,7 @@ public class A {
 	}
 	public void div()
 	{
-		System.out.println("this is div method");
+		System.out.println("this is div ");
 	}
 
 }
