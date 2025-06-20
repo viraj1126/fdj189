@@ -16,5 +16,9 @@ public class A {
 	{
 		System.out.println("this is mul method");
 	}
+	public void div()
+	{
+		System.out.println("this is div method");
+	}
 
 }
